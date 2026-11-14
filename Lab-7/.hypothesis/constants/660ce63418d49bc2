@@ -1,0 +1,4 @@
+# file: /Users/dhritirajesh/L6_L7_58_restaurant_bill/LAB7/restaurant_bill_parser.py
+# hypothesis_version: 6.141.1
+
+['#', '*', ',', '/', 'Dish name:', 'Each person pays:', 'Item prices:', '__main__', '~']
